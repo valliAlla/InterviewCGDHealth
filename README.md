@@ -60,8 +60,7 @@ run `docker-compose up` then:
 
 There is an potential issue of the Dockerfile (deploy file). 
 
-This deploy-file will install the Arch64 env python package  as default, but mine is arm64.
 
-Next step: I will change the Dockerfile to fit my computer
+Next step: I will change the Dockerfile to fix the exit code 1 error.
 
 
